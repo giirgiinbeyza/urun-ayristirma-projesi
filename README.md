@@ -27,7 +27,10 @@ Kontur Analizi: Son adımda nesnelerin sınırlarını (konturlarını) bulup on
 
 | Orijinal Görsel | Maskelenmiş Hali | Tespit Sonucu |
 | :---: | :---: | :---: |
-| <img src="BURAYA_ORIJINAL_GORSEL_LINKINI_YAPISTIR" width="300"> | <img src="BURAYA_MASKE_GORSEL_LINKINI_YAPISTIR" width="300"> | <img src="BURAYA_SONUC_GORSEL_LINKINI_YAPISTIR" width="300"> |
+| <img src="<img width="1244" height="700" alt="Ekran Görüntüsü (2775)" src="https://github.com/user-attachments/assets/12d74971-e80d-4dee-98a9-aef3cefc65bb" />
+" width="300"> | <img src="<img width="1252" height="767" alt="Ekran Görüntüsü (2776)" src="https://github.com/user-attachments/assets/f03ecb3f-8a0d-4748-80ab-0c8062f9f6aa" />
+" width="300"> | <img src="![Uploading Ekran Görüntüsü (2777).png…]()
+" width="300"> |
 Neden Bu Proje Benim İçin Önemli?
 Bir Junior QA / SDET adayı olarak, kodun sadece "yazılması" değil, "doğrulanması" ve "hata bulması" üzerine kurulu sistemlere hep ilgim vardı. Bu proje, bir yazılımın gerçek dünyadaki fiziksel bir veriyi nasıl işlediğini ve hataları nasıl tespit edebileceğini anlamamı sağladı.
 
