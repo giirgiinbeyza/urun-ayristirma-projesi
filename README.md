@@ -23,10 +23,11 @@ Temizlik: Morfolojik "Opening" işlemiyle görseldeki o sinir bozucu gürültül
 
 Kontur Analizi: Son adımda nesnelerin sınırlarını (konturlarını) bulup onları bir kutu içine aldım ve üzerine "Hap" etiketini yapıştırdım.
 
-Projeden Görüntüler
+### Projeden Görüntüler
 
-<img width="1252" height="767" alt="Ekran Görüntüsü (2776)" src="https://github.com/user-attachments/assets/6df1265b-1fb3-4f04-9361-6b17ccb9c7b9" />
-<img width="1143" height="656" alt="Ekran Görüntüsü (2777)" src="https://github.com/user-attachments/assets/9e2e0b1d-3c1d-4d2a-bd6f-c6aee4522aae" />
+| Orijinal Görsel | Maskelenmiş Hali | Tespit Sonucu |
+| :---: | :---: | :---: |
+| <img src="BURAYA_ORIJINAL_GORSEL_LINKINI_YAPISTIR" width="300"> | <img src="BURAYA_MASKE_GORSEL_LINKINI_YAPISTIR" width="300"> | <img src="BURAYA_SONUC_GORSEL_LINKINI_YAPISTIR" width="300"> |
 Neden Bu Proje Benim İçin Önemli?
 Bir Junior QA / SDET adayı olarak, kodun sadece "yazılması" değil, "doğrulanması" ve "hata bulması" üzerine kurulu sistemlere hep ilgim vardı. Bu proje, bir yazılımın gerçek dünyadaki fiziksel bir veriyi nasıl işlediğini ve hataları nasıl tespit edebileceğini anlamamı sağladı.
 
